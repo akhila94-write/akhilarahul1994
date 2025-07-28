@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Welcome to Litaura – A Learning Space</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fdfafa;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      padding: 40px 20px;
+      background: #fff1f5;
+    }
+    nav {
+      text-align: center;
+      background-color: #ffe4ec;
+      padding: 10px 0;
+    }
+    nav a {
+      text-decoration: none;
+      margin: 0 15px;
+      color: #d6336c;
+      font-weight: bold;
+    }
+    .logo {
+      max-width: 200px;
+      margin-bottom: 20px;
+    }
+    .content {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    .content h1 {
+      font-size: 2em;
+      margin-bottom: 10px;
+      color: #cc3366;
+    }
+    .content p {
+      font-size: 1.1em;
+      line-height: 1.6;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #ffe4ec;
+      font-size: 0.9em;
+      color: #555;
+    }
+    .social {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="logo.png" alt="Litaura Logo" class="logo" />
+    <h1>Welcome to Litaura – A Learning Space</h1>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Blog</a>
+    <a href="#">Contact</a>
+  </nav>
+
+  <div class="content">
+    <p>
+      I’m an English Language and Literature teacher with an MA, B.Ed., SET, K-TET, and TEFL certification. As a passionate academic writer and tutor, I created <strong>Lit Aura</strong> to share lessons, summaries, grammar tips, and inspiring content that makes English learning enjoyable for students and literature lovers alike.
+    </p>
+    <p>
+      This space is crafted to support learners at every level with clarity, creativity, and care.
+    </p>
+  </div>
+
+  <footer>
+    <p>📧 Email: aura41571@gmail.com</p>
+    <div class="social">
+      📺 YouTube: <em>(Add link if available)</em>
+    </div>
+    <p>© 2025 Akhila Rahul – All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
